@@ -50,9 +50,12 @@ manifest.mf
 
 # other stuff
 run/
+docs/build/
 
-build-data/
-Purpur-API
-Purpur-MojangAPI
 Purpur-Server
-*.jar
+Purpur-API
+mc-dev
+purpurclip.jar
+*clip.jar
+last-paper
+mcdevimports.conf
